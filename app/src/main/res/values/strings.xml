@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">My WishList</string>
     <string name="title_home_page">Home</string>
+    <string name="title_add_wishlist">Ajouter une liste</string>
 </resources>

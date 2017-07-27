@@ -19,6 +19,9 @@
         <activity
             android:name=".HomeActivity"
             android:label="@string/title_home_page" />
+        <activity
+            android:name=".AddWishlistActivity"
+            android:label="@string/title_add_wishlist"/>
     </application>
 
 </manifest>
