@@ -2,4 +2,10 @@
     <string name="app_name">My WishList</string>
     <string name="title_home_page">Home</string>
     <string name="title_add_wishlist">Ajouter une liste</string>
+    <string name="title_sign_up"> Créer un compte</string>
+    <string name="auth_failed">Email ou mot de passe incorrect</string>
+    <string name="enter_email">Entrez une adresse email!</string>
+    <string name="enter_password">Entrez votre mot de passe</string>
+    <string name="short_password">Mot de passe trop court ! Minimum 8 charactères</string>
+    <string name="password_error">Confirmation de mot de passe incorrect</string>
 </resources>
